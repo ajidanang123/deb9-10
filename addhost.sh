@@ -6,7 +6,7 @@ DOMAIN=myvpnkuy.xyz
 
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c4)
 
-SUB_DOMAIN=ajidanang.myvpnkuy.xyz
+SUB_DOMAIN=aji.myvpnkuy.xyz
 
 CF_ID=amsalsiregar12@gmail.com
 
